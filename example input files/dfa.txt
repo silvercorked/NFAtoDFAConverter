@@ -1,0 +1,45 @@
+% Q
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+% Sigma
+0
+1
+% F
+A
+B
+C
+D
+E
+H
+I
+% Q0
+A
+% Delta
+A 0 B
+A 1 C
+B 0 B
+B 1 E
+C 0 D
+C 1 C
+D 0 B
+D 1 G
+E 0 F
+E 1 C
+F 0 B
+F 1 I
+G 0 H
+G 1 C
+H 0 B
+H 1 J
+I 0 J
+I 1 C
+J 0 J
+J 1 J
